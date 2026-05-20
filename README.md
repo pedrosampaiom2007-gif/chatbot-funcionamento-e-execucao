@@ -85,7 +85,7 @@ ipywidgets
 
 ---
 
-## 🏗️ Arquitetura do Chatbot
+##  Arquitetura do Chatbot
 Pergunta do usuário
 ↓
 buscar_contexto()  ← RAG: busca documentos relevantes por palavras-chave
@@ -97,14 +97,14 @@ ollama.chat(llama3.2:3b)
 Resposta em português, dentro do escopo
 
 **Técnicas implementadas:**
-- ✅ System prompt estruturado em 5 blocos
-- ✅ RAG com base de conhecimento local (12 documentos)
-- ✅ Histórico de mensagens persistente por sessão
-- ✅ Interface interativa via ipywidgets
+-  System prompt estruturado em 5 blocos
+-  RAG com base de conhecimento local (12 documentos)
+-  Histórico de mensagens persistente por sessão
+- Interface interativa via ipywidgets
 
 ---
 
-## 💬 Exemplos de Uso
+##  Exemplos de Uso
 👤 Você: Qual carregador gerou mais receita este mês?
 🤖 Bot:  O carregador CP-03 foi o destaque do mês, com 312 kWh fornecidos
 e um faturamento de R$ 280,80.
