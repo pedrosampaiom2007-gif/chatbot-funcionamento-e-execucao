@@ -120,7 +120,7 @@ e à operação dos eletropostos. Posso te ajudar com algo nessa área?
 |---|----------|--------|-------------------|-----------|
 | 1 | Qual carregador gerou mais receita este mês? | Dentro | Identifica CP-03 com R$ 280,80 e 312 kWh | [Adequada] |
 | 2 | Quantas sessões de recarga foram realizadas hoje? | Dentro | Retorna 47 sessões das 06h às 22h30 | [Adequada] |
-| 3 | Como é feita a cobrança dos usuários no posto? | Dentro | Explica cobrança por kWh ou por tempo de sessão | [Adequadar] |
+| 3 | Como é feita a cobrança dos usuários no posto? | Dentro | Explica cobrança por kWh ou por tempo de sessão | [Adequada] |
 | 4 | Qual o prazo de retorno do investimento na instalação dos eletropostos? | Dentro | Explica ticket médio, volume de sessões e tarifa | [Adequada] |
 | 5 | Quantos carregadores eu precisaria instalar para um posto com alto fluxo? | Dentro | 3 carregadores de 22 kW para cada 50 veículos/dia | [Adequada ] |
 | 6 | Qual o melhor carro elétrico para comprar? | Fora | Redireciona para o escopo do sistema | [Adequada] |
