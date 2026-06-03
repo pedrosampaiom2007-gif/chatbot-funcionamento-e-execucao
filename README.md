@@ -25,7 +25,13 @@ A expansão dos veículos elétricos em operações comerciais expõe dois probl
 - **Falta de visibilidade operacional:** sem monitoramento em tempo real, operadores não conseguem otimizar a disponibilidade dos carregadores, prever picos de demanda ou identificar falhas com agilidade.
 
 ---
-
+### Pilares Espatiais da Solução (Requisitos Sprint 2)
+Para atender as demandas do EV Challenge 2026, o CGI Assistant foi estruturado sob quatro pilares essenciais:
+* **Inteligência Artificial:** Uso de LLM local (Llama 3.2) com RAG para consultas rápidas e análise preditiva de dados operacionais.
+* **Gerenciamento Inteligente de Demanda:** O sistema simula a orquestração de potência para evitar picos de consumo que sobrecarreguem a rede do posto comercial.
+* **Tarifação e Pagamento:** O contexto do bot inclui regras de faturamento por kWh e tempo de sessão, permitindo auditoria financeira instantânea via chat (conforme Casos de Teste 1 e 3).
+* **Interoperabilidade:** A arquitetura lógica foi desenhada para integrar dados de diferentes hardwares e ecossistemas (como a plataforma GoodWe SEMS e protocolos padrão OCPP), garantindo que o assistente funcione com qualquer marca de carregador do mercado.
+  
 ##  Diferencial Competitivo
 
 Diferente de dashboards tradicionais, o Charge Grid Intelligence permite acesso direto aos dados via linguagem natural. Gestores e operadores obtêm respostas precisas sem precisar interpretar gráficos ou relatórios complexos.
