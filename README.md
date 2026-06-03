@@ -137,4 +137,4 @@ https://www.youtube.com/watch?v=4JaiHpK-roA
 ---
 
 > Projeto desenvolvido para o EV Challenge 2026 — FIAP  
-> Matéria: Prompt and Artificial Intelligence
+
